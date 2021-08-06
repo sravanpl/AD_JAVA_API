@@ -1,0 +1,9 @@
+ldap:
+  base: DC=sravan,DC=com
+  url: ldap://192.168.0.239
+  username: sk@sravan.com
+  password: tcsOntcl@10
+server:
+  servlet:
+   contextPath: /ad_api
+  port: 8888
